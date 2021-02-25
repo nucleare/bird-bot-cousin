@@ -1,0 +1,5 @@
+## 02.25.21
+- Fork created, from the origin git found [here](https://github.com/natewong1313/bird-bot)
+- Addressed [issue #73](https://github.com/natewong1313/bird-bot/pull/73) courtesy of @egiraffe
+- Commits [issue #49](https://github.com/natewong1313/bird-bot/pull/49) courtesy of @Sharkiiie and prevents future letter case issues as suggested by @amplicity
+- Updated dependency versions
